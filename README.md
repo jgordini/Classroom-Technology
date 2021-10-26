@@ -9,3 +9,7 @@ https://www.uab.edu/elearning/academic-technologies/lecture-capture
 https://vjtools.freshdesk.com/support/solutions/articles/900%E2%89%880042677-vj-responsive-table
 
 https://elvery.net/demo/responsive-tables/
+
+https://uab365-my.sharepoint.com/:x:/g/personal/jgordini_uab_edu/EWQUpwTZfoFOltTMtdwDb5QBqMYuyLCHuRcrU2kp-HxnfQ?e=ocQAE3
+
+https://us.flow.microsoft.com/manage/environments/Default-d8999fe4-76af-40b3-b435-1d8977abc08c/flows/60d578b6-980e-4624-bd0d-e2512a0b3e87/details
