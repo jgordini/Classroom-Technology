@@ -19,3 +19,5 @@ https://docs.google.com/spreadsheets/d/19wc8GJ9faQIce348vwPxyX_rx3qr6hi6oAGfBOPq
 https://uab-it.github.io/linear/components/google-sheets.html
 
 https://www.youtube.com/watch?v=K6Vcfm7TA5U
+
+https://fireship.io/lessons/google-sheets-database-nextjs/
