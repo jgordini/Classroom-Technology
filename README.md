@@ -1,5 +1,9 @@
 # Classroom-Technology
 
+## ToDo
+- Add tabbed section for room sizes
+- update google sheet with new info
+
 https://www.uab.edu/it/home/tech-solutions/classrooms/technology
 
 https://www.uab.edu/it/home/tech-solutions/classrooms/status
