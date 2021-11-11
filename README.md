@@ -17,3 +17,5 @@ https://us.flow.microsoft.com/manage/environments/Default-d8999fe4-76af-40b3-b43
 https://docs.google.com/spreadsheets/d/19wc8GJ9faQIce348vwPxyX_rx3qr6hi6oAGfBOPqRFs/edit#gid=1703597193
 
 https://uab-it.github.io/linear/components/google-sheets.html
+
+https://www.youtube.com/watch?v=K6Vcfm7TA5U
